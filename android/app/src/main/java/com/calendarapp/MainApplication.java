@@ -1,4 +1,4 @@
-package com.calendarapp;
+package com.sharedcalendar;
 
 import android.app.Application;
 import android.content.Context;

@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.calendarapp"
+        applicationId "com.sharedcalendar"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "calendarapp-tvOS.app"
-               BlueprintName = "calendarapp-tvOS"
-               ReferencedContainer = "container:calendarapp.xcodeproj">
+               BuildableName = "sharedcalendar-tvOS.app"
+               BlueprintName = "sharedcalendar-tvOS"
+               ReferencedContainer = "container:sharedcalendar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "calendarapp-tvOSTests.xctest"
-               BlueprintName = "calendarapp-tvOSTests"
-               ReferencedContainer = "container:calendarapp.xcodeproj">
+               BuildableName = "sharedcalendar-tvOSTests.xctest"
+               BlueprintName = "sharedcalendar-tvOSTests"
+               ReferencedContainer = "container:sharedcalendar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "calendarapp-tvOSTests.xctest"
-               BlueprintName = "calendarapp-tvOSTests"
-               ReferencedContainer = "container:calendarapp.xcodeproj">
+               BuildableName = "sharedcalendar-tvOSTests.xctest"
+               BlueprintName = "sharedcalendar-tvOSTests"
+               ReferencedContainer = "container:sharedcalendar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "calendarapp-tvOS.app"
-            BlueprintName = "calendarapp-tvOS"
-            ReferencedContainer = "container:calendarapp.xcodeproj">
+            BuildableName = "sharedcalendar-tvOS.app"
+            BlueprintName = "sharedcalendar-tvOS"
+            ReferencedContainer = "container:sharedcalendar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "calendarapp-tvOS.app"
-            BlueprintName = "calendarapp-tvOS"
-            ReferencedContainer = "container:calendarapp.xcodeproj">
+            BuildableName = "sharedcalendar-tvOS.app"
+            BlueprintName = "sharedcalendar-tvOS"
+            ReferencedContainer = "container:sharedcalendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "calendarapp-tvOS.app"
-            BlueprintName = "calendarapp-tvOS"
-            ReferencedContainer = "container:calendarapp.xcodeproj">
+            BuildableName = "sharedcalendar-tvOS.app"
+            BlueprintName = "sharedcalendar-tvOS"
+            ReferencedContainer = "container:sharedcalendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
